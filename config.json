@@ -1,0 +1,13 @@
+{
+  "project_title": "Volunteer Shift Planner",
+  "goal": "Balance volunteer coverage across shifts and roles.",
+  "entity_name": "shift",
+  "amount_label": "hours",
+  "score_label": "coverage_score",
+  "categories": [
+    "registration",
+    "ops",
+    "support",
+    "logistics"
+  ]
+}
